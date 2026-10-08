@@ -1,0 +1,15 @@
+.runtime/
+node_modules/
+dist/
+dist-ssr/
+*.zip
+*.log
+.env
+.env.*
+!.env.example
+api/uploads/
+api/config.local.php
+*.local
+.idea/
+.vscode/
+.DS_Store
